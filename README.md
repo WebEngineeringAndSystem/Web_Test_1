@@ -11,7 +11,7 @@
 <tr><td>杨晨</td> <td>13130110062</td> <td>yangchen62</td> <td> </td></tr>
 <tr><td>贺睿</td> <td>13130110067</td> <td>heruiwork</td> <td> </td></tr>
 <tr><td>许昊</td> <td>13130110066</td> <td>Euphymia</td> <td> </td></tr>
-<tr><td>郝同师</td> <td>13130110057</td> <td></td> <td> </td></tr>
+<tr><td>郝同师</td> <td>13130110058</td> <td>haotongshi</td> <td> </td></tr>
 <tr><td>陈克明</td> <td>13111226</td> <td>1063775644</td> <td> </td></tr>
 </tbody>
 </table>
